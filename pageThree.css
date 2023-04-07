@@ -1,0 +1,20 @@
+#find_form {
+    border: none;
+    font-size: 130%;
+}
+
+#find_age {
+    font-size: 90%;
+}
+
+#imag {
+    float: left;
+    width: 50px;
+}
+
+#text {
+    float: left;
+    margin-left: 10px;
+}
+
+

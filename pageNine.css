@@ -1,0 +1,75 @@
+#box {
+    width: 92%;
+    background-color: #c69aff;
+    height: 420px;
+    border-radius: 25px;
+    margin-left: 23px;
+    font-size: 40px;
+    padding-top: 60px;
+
+}
+
+#signin {
+    padding-right: 100px;
+    float: right;
+
+
+}
+
+#signup {
+    padding-left: 100px;
+    float: left;
+
+
+}
+
+.title12 {
+    font-size: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.ans {
+    height: 35px;
+    border-radius: 25px;
+    font-size: 20px;
+    border: none;
+    background-color: lightcyan
+}
+
+.ans1 {
+    height: 40px;
+    font-size: 20px;
+    background-color: #022CFF;
+    color: lightcyan;
+    border-radius: 25px;
+    border: none;
+    margin-left: 50px;
+    padding: 10px 40px;
+}
+
+.ans1:hover {
+    color: #022CFF;
+    background-color: lightcyan;
+
+}
+
+#signout {
+    top: 0px;
+    margin-left: 300px;
+
+}
+
+#sot {
+    text-align: left;
+}
+
+#sobutt {
+    margin-left: 70px;
+    top: 0;
+
+}
+

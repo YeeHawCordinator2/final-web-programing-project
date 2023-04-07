@@ -1,0 +1,7 @@
+1:user0:dog:pug:5:female:Pistache.jpg:|Children|Dogs
+2:user0:cat:persian:9:female:george.jpg:|Cats
+3:user0:dog:golden retriever:12:male:carrot.jpg:|Dogs
+4:user0:cat:mixed:4:female:nectar.jpg:|Cats|Dogs|Children
+5:user0:dog:dalmatian:0.4:male:Peanut butter.jpg:|Children
+6:user0:cat:bengal:1:female:luffy.jpg:|Dogs
+

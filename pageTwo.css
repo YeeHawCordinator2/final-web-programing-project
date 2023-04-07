@@ -1,0 +1,55 @@
+.page {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: -100vw;
+    overflow-y: auto;
+    z-index: 0;
+    background-color: hsl(0, 0%, 100%);
+}
+
+.page:target {
+    left: 0vw;
+    z-index: 1;
+}
+
+/*.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+} */
+.rowss {
+    display: flex;
+}
+
+.columnss {
+    flex: 33.33%;
+    padding: 5px;
+}
+
+#find-pet-button {
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+    background-color: #001580;
+    position: absolute;
+    top: 1390px;
+    left: 48%;
+    padding: 10px 25px;
+    border-radius: 35px;
+    border: none;
+}
+
+#find-pet-button:hover {
+    color: #001580;
+    background-color: white;
+    border: 2px #001580 solid;
+}
